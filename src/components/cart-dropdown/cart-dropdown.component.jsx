@@ -19,7 +19,7 @@ export const CartDropdown = () => {
             <div className="cart-items">
                 {cartItems.map(item => <CartItem key={item.id} cartItem={item} />)}
             </div>
-            <Button onClick={goToCheckoutHandler}>GO TO CHECKOUT</Button>
+            <Button onClick={goToCheckoutHandler}>CHECKOUT</Button>
 
         </div>
     )

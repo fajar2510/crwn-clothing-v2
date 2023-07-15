@@ -1,7 +1,9 @@
 body {
   margin: 0;
   padding: 20px 40px;
-  font-family: "Open Sans", sans-serif;
+   font-family: 'Inter', sans-serif;
+  /*font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'PT Sans Narrow', sans-serif; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
